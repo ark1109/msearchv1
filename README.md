@@ -1,1 +1,1 @@
-msearchv1
+# meilisearch-template
